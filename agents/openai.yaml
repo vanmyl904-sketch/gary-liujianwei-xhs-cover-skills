@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书封面工作室"
+  short_description: "用8种精选视觉风格生成高点击中文社交媒体封面成品图片"
+  default_prompt: "Use $xhs-cover-studio to create a finished cover from my main image, title, and optional supporting images."
