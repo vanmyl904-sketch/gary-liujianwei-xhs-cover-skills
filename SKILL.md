@@ -1,9 +1,9 @@
 ---
-name: xhs-cover-studio
+name: gary-liujianwei-xhs-cover
 description: Generate finished Chinese social-media cover images from a user-selected visual style, one main image, an optional set of up to three supporting images, a main title, and up to three AI-suggested subtitles. Use when the user asks to make, design, generate, redraw, or produce a 小红书封面, 社交媒体封面, 笔记首图, 图文封面, 视频封面, or wants a cover matching one of this skill's bundled reference styles.
 ---
 
-# 小红书封面工作室
+# Gary刘坚伟-小红书封面设计-skills
 
 直接生成最终封面图片，不要只输出提示词。
 
