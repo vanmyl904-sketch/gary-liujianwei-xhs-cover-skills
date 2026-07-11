@@ -10,7 +10,7 @@ description: Generate finished Chinese social-media cover images from a user-sel
 ## 工作流
 
 1. 读取用户当前消息中已提供的标题、图片和风格偏好，不重复询问。
-2. 如果用户还没有选风格，读取 [styles.md](references/styles.md)，用 8 张参考图及名称让用户选一个编号。不要增加参考表之外的风格。
+2. 如果用户还没有选风格，读取 [styles.md](references/styles.md)，用 7 张参考图及名称让用户选一个编号。不要增加参考表之外的风格。
 3. 收集以下最少信息；缺少时一次性列出，不要逐项追问：
    - 1 张主图，必需。主图是封面的核心人物、作品或场景。
    - 0–3 张附图，可选。附图是产品、案例、课程截图、Logo 或其他需要进入封面的素材。
@@ -50,4 +50,4 @@ description: Generate finished Chinese social-media cover images from a user-sel
 6. 附图的编号、用途与位置。
 7. 安全区、可读性和禁止项。
 
-不要把 8 种风格混在一起。一次只应用用户选择的一种风格。
+不要把 7 种风格混在一起。一次只应用用户选择的一种风格。

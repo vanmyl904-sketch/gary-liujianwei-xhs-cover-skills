@@ -1,4 +1,4 @@
 interface:
   display_name: "Gary刘坚伟-小红书封面设计-skills"
-  short_description: "用8种精选视觉风格生成高点击中文社交媒体封面成品图片"
+  short_description: "用7种精选视觉风格生成高点击中文社交媒体封面成品图片"
   default_prompt: "Use $gary-liujianwei-xhs-cover to create a finished cover from my main image, title, and optional supporting images."
