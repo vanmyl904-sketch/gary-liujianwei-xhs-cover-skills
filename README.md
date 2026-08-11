@@ -45,6 +45,12 @@ cp -R gary-liujianwei-xhs-cover-skills ~/.codex/skills/gary-liujianwei-xhs-cover
 3. 选择比例、人物表现、字体、背景和副标题；也可以对任一项说“交给模型决定”。
 4. Codex 根据已确认的选择生成最终封面。
 
+## 关于作者
+
+刘坚伟，完美一刻婚礼培训学院创始人，深耕婚礼行业 16 年；同时是一名自媒体创作者与 AI 深度玩家。
+
+他持续将可重复的工作交给 AI 与自动化工具，已通过与 AI 协作完成多款实用工具。本 Skill 的目标，是让没有设计基础的内容创作者也能更快做出清晰、有辨识度、适合发布的中文社交媒体封面。
+
 ## 搜索关键词 / Keywords
 
 封面设计、AI 封面设计、小红书封面、公众号封面、视频封面、社交媒体封面、Codex Skill、AI Cover Design、Xiaohongshu Cover、WeChat Cover、Social Media Cover。
