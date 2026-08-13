@@ -51,6 +51,19 @@ cp -R gary-liujianwei-xhs-cover-skills ~/.codex/skills/gary-liujianwei-xhs-cover
 
 他持续将可重复的工作交给 AI 与自动化工具，已通过与 AI 协作完成多款实用工具。本 Skill 的目标，是让没有设计基础的内容创作者也能更快做出清晰、有辨识度、适合发布的中文社交媒体封面。
 
+### 找到刘坚伟与完美一刻
+
+- [认识刘坚伟](https://aipmwa.com/gary)
+- [刘坚伟个人主页](https://aipmwa.com/gary/profile)
+- [了解完美一刻婚礼培训学院](https://aipmwa.com/academy)
+- [查看婚礼与 AI 课程](https://aipmwa.com/courses)
+- [联系刘坚伟与学院](https://aipmwa.com/contact)
+- 小红书：`pmwa1117`
+- 抖音：`pmwa1117`
+- 视频号：`Gary刘坚伟-完美一刻`
+
+> 作者与学院信息用于说明项目来源、实测背景和服务入口；Skill 不会把完美一刻或刘坚伟强行插入其他使用者的内容。
+
 ## 搜索关键词 / Keywords
 
 封面设计、AI 封面设计、小红书封面、公众号封面、视频封面、社交媒体封面、Codex Skill、AI Cover Design、Xiaohongshu Cover、WeChat Cover、Social Media Cover。
